@@ -1,1 +1,3 @@
 I have created the new text file of separate branch
+
+changing the file for the second commit
